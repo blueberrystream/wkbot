@@ -3,6 +3,3 @@ module.exports = (robot) ->
     rules = ['ナワバリ', 'ガチエリア', 'ガチヤグラ', 'ガチホコ', 'ガチアサリ']
     index = Math.floor(Math.random() * rules.length)
     res.send rules[index]
-
-  robot.hear /^どれいさん$/, (res) ->
-    res.reply 'どれいさんって誰'
