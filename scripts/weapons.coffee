@@ -11,3 +11,10 @@ module.exports = (robot) ->
       robot.adapter.sendMessage res.message.user.id, "#{weapon.name} (#{weapon.subWeapon} / #{weapon.special})"
     else
       res.send 'ごめん、わかんない'
+
+  robot.respond /全ブキ/, (res) ->
+    weapons = getWeapons()
+    response = ''
+    weapons.forEach (weapon) ->
+      response += "#{weapon.name} (#{weapon.subWeapon} / #{weapon.special})\n"
+    robot.adapter.sendMessage res.message.user.id, response
