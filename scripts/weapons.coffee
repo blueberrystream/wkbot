@@ -5,8 +5,15 @@ module.exports = (robot) ->
     json = JSON.parse json
     json.weapons
 
-  robot.hear /^(ブキランダム|ランダムブキ|weapons? random|random weapons?)$/i, (res) ->
-    weapon = res.random getWeapons()
+  robot.hear /^(ブキランダム|ランダムブキ|weapons? random|random weapons?)( +)?(.*)$/i, (res) ->
+    needle = res.match[3]
+    weapons = getWeapons()
+
+    if needle? && needle.length isnt 0
+      weapons = weapons.filter (weapon) ->
+        weapon.category is needle || weapon.subWeapon is needle || weapon.special is needle
+
+    weapon = res.random weapons
     if weapon?
       robot.adapter.sendMessage res.message.user.id, "#{weapon.name} (#{weapon.subWeapon} / #{weapon.special})"
     else
