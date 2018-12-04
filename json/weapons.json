@@ -108,6 +108,14 @@
     { "id": 106, "category": "シューター", "name": "おちばシューター", "subWeapon": "トーピード", "special": "バブルランチャー" },
     { "id": 107, "category": "フデ", "name": "ホクサイベッチュー", "subWeapon": "キューバンボム", "special": "ウルトラハンコ" },
     { "id": 108, "category": "シェルター", "name": "スパイガジェットベッチュー", "subWeapon": "トーピード", "special": "インクアーマー" },
-    { "id": 109, "category": "シューター", "name": "L3リールガンベッチュー", "subWeapon": "スプラッシュシールド", "special": "ウルトラハンコ" }
+    { "id": 109, "category": "シューター", "name": "L3リールガンベッチュー", "subWeapon": "スプラッシュシールド", "special": "ウルトラハンコ" },
+    { "id": 110, "category": "スロッシャー", "name": "エクスプロッシャーカスタム", "subWeapon": "ポイントセンサー", "special": "イカスフィア" },
+    { "id": 111, "category": "スピナー", "name": "クーゲルシュライバー・ヒュー", "subWeapon": "ジャンプビーコン", "special": "アメフラシ" },
+    { "id": 112, "category": "スロッシャー", "name": "オーバーフロッシャーデコ", "subWeapon": "スプリンクラー", "special": "キューバンボムピッチャー" },
+    { "id": 113, "category": "スピナー", "name": "ノーチラス79", "subWeapon": "キューバンボム", "special": "ジェットパック" },
+    { "id": 114, "category": "シューター", "name": ".52ガロンベッチュー", "subWeapon": "スプラッシュシールド", "special": "ナイスダマ" },
+    { "id": 115, "category": "シューター", "name": "ケルビン525ベッチュー", "subWeapon": "タンサンボム", "special": "インクアーマー" },
+    { "id": 116, "category": "スピナー", "name": "スプラスピナーベッチュー", "subWeapon": "ポイズンミスト", "special": "ウルトラハンコ" },
+    { "id": 117, "category": "ブラスター", "name": "ラピッドブラスターベッチュー", "subWeapon": "トーピード", "special": "イカスフィア" }
   ]
 }
