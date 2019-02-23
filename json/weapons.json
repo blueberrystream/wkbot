@@ -83,7 +83,7 @@
     { "id": 81, "category": "シューター", "name": "シャープマーカーネオ", "subWeapon": "クイックボム", "special": "キューバンボムピッチャー" },
     { "id": 82, "category": "シューター", "name": "ボトルガイザーフォイル", "subWeapon": "スプラッシュボム", "special": "バブルランチャー" },
     { "id": 83, "category": "チャージャー", "name": "スクイックリンβ", "subWeapon": "ロボットボム", "special": "イカスフィア" },
-    { "id": 84, "category": "シューター", "name": "ケルビン525デコ", "subWeapon": "スプラッシュシールド", "special": "イカスフィア" },
+    { "id": 84, "category": "マニューバー", "name": "ケルビン525デコ", "subWeapon": "スプラッシュシールド", "special": "イカスフィア" },
     { "id": 85, "category": "マニューバー", "name": "デュアルスイーパーカスタム", "subWeapon": "スプラッシュボム", "special": "アメフラシ" },
     { "id": 86, "category": "ブラスター", "name": "Rブラスターエリートデコ", "subWeapon": "スプラッシュシールド", "special": "インクアーマー" },
     { "id": 87, "category": "シェルター", "name": "スパイガジェットソレーラ", "subWeapon": "スプラッシュボム", "special": "イカスフィア" },
@@ -114,7 +114,7 @@
     { "id": 112, "category": "スロッシャー", "name": "オーバーフロッシャーデコ", "subWeapon": "スプリンクラー", "special": "キューバンボムピッチャー" },
     { "id": 113, "category": "スピナー", "name": "ノーチラス79", "subWeapon": "キューバンボム", "special": "ジェットパック" },
     { "id": 114, "category": "シューター", "name": ".52ガロンベッチュー", "subWeapon": "スプラッシュシールド", "special": "ナイスダマ" },
-    { "id": 115, "category": "シューター", "name": "ケルビン525ベッチュー", "subWeapon": "タンサンボム", "special": "インクアーマー" },
+    { "id": 115, "category": "マニューバー", "name": "ケルビン525ベッチュー", "subWeapon": "タンサンボム", "special": "インクアーマー" },
     { "id": 116, "category": "スピナー", "name": "スプラスピナーベッチュー", "subWeapon": "ポイズンミスト", "special": "ウルトラハンコ" },
     { "id": 117, "category": "ブラスター", "name": "ラピッドブラスターベッチュー", "subWeapon": "トーピード", "special": "イカスフィア" }
   ]
