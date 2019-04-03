@@ -88,7 +88,7 @@
     { "id": 86, "category": "ブラスター", "name": "Rブラスターエリートデコ", "subWeapon": "スプラッシュシールド", "special": "インクアーマー" },
     { "id": 87, "category": "シェルター", "name": "スパイガジェットソレーラ", "subWeapon": "スプラッシュボム", "special": "イカスフィア" },
     { "id": 88, "category": "ローラー", "name": "カーボンローラーデコ", "subWeapon": "クイックボム", "special": "ロボットボムピッチャー" },
-    { "id": 89, "category": "チャージャー", "name": "十四式竹筒銃・乙", "subWeapon": "ポイズンミスト", "special": "クイックボムピッチャー" },
+    { "id": 89, "category": "チャージャー", "name": "14式竹筒銃・乙", "subWeapon": "ポイズンミスト", "special": "クイックボムピッチャー" },
     { "id": 90, "category": "シェルター", "name": "キャンピングシェルターソレーラ", "subWeapon": "スプラッシュシールド", "special": "カーリングボムピッチャー" },
     { "id": 91, "category": "スピナー", "name": "クーゲルシュライバー", "subWeapon": "ポイズンミスト", "special": "ジェットパック" },
     { "id": 92, "category": "スロッシャー", "name": "エクスプロッシャー", "subWeapon": "スプリンクラー", "special": "バブルランチャー" },
@@ -116,6 +116,18 @@
     { "id": 114, "category": "シューター", "name": ".52ガロンベッチュー", "subWeapon": "スプラッシュシールド", "special": "ナイスダマ" },
     { "id": 115, "category": "マニューバー", "name": "ケルビン525ベッチュー", "subWeapon": "タンサンボム", "special": "インクアーマー" },
     { "id": 116, "category": "スピナー", "name": "スプラスピナーベッチュー", "subWeapon": "ポイズンミスト", "special": "ウルトラハンコ" },
-    { "id": 117, "category": "ブラスター", "name": "ラピッドブラスターベッチュー", "subWeapon": "トーピード", "special": "イカスフィア" }
+    { "id": 117, "category": "ブラスター", "name": "ラピッドブラスターベッチュー", "subWeapon": "トーピード", "special": "イカスフィア" },
+    { "id": 118, "category": "マニューバー", "name": "スパッタリークリア", "subWeapon": "トーピード", "special": "スーパーチャクチ" },
+    { "id": 119, "category": "シェルター", "name": "キャンピングシェルターカーモ", "subWeapon": "トラップ", "special": "ウルトラハンコ" },
+    { "id": 120, "category": "チャージャー", "name": "スクイックリンγ", "subWeapon": "キューバンボム", "special": "ジェットパック" },
+    { "id": 121, "category": "フデ", "name": "パーマネント・パブロ", "subWeapon": "スプリンクラー", "special": "インクアーマー" },
+    { "id": 122, "category": "スロッシャー", "name": "バケットスロッシャーソーダ", "subWeapon": "スプラッシュボム", "special": "クイックボムピッチャー" },
+    { "id": 123, "category": "スピナー", "name": "バレルスピナーリミックス", "subWeapon": "ポイントセンサー", "special": "ナイスダマ" },
+    { "id": 124, "category": "チャージャー", "name": "14式竹筒銃・丙", "subWeapon": "タンサンボム", "special": "バブルランチャー" },
+    { "id": 125, "category": "ブラスター", "name": "ロングブラスターネクロ", "subWeapon": "クイックボム", "special": "マルチミサイル" },
+    { "id": 126, "category": "シューター", "name": "N-ZAP83(ファミザップ)", "subWeapon": "スプリンクラー", "special": "アメフラシ" },
+    { "id": 127, "category": "シューター", "name": "プロモデラーPG(銅モデ)", "subWeapon": "クイックボム", "special": "ナイスダマ" },
+    { "id": 128, "category": "シューター", "name": "ボールドマーカー7", "subWeapon": "スプラッシュボム", "special": "ウルトラハンコ" },
+    { "id": 129, "category": "シューター", "name": "H3リールガンチェリー", "subWeapon": "スプラッシュシールド", "special": "バブルランチャー" }
   ]
 }
